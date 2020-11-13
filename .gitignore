@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+npm-debug.log*
+build
+public
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.idea
+.vscode
+.yarn
+.env
